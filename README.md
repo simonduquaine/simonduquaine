@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone and welcome to my github 👋
 
 <!--
 **simonduquaine/simonduquaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
