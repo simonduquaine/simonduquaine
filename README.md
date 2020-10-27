@@ -1,13 +1,9 @@
 ## 👋 Hello everyone and welcome to my github 👋  
-<div><div>
-  June, I had the opportunity to start the BeCode adventure and here I am 💯  
+June, I had the opportunity to start the BeCode adventure and here I am 💯  
 I'd describe myself as a serene, positive and applied person.  
 Also, I am not afraid of the challenge. 💪
-  </div>
-  
-<img src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" width="130px">
-</div>
 
+<img src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" width="130px">
 
 ---
 
