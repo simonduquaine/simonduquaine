@@ -5,12 +5,12 @@ Also, I am not afraid of the challenge. 💪
 
 --- 
 
-|**TECH SKILLS**|RELATED REPOSITORIES|
+|**TECH SKILLS**|RELATED PERSONNAL REPOSITORIES|
 |---------------|--------------------|
-| ☑️ JAVASCRIPT |[GitHub JAVASCRIPT](http://github.com)|
-| ☑️ NODE.JS    |[GitHub NODE](https://github.com/SimNode)|
-| ☑️ EXPRESS.JS |[GitHub EXPRESS](https://github.com/SimExpress)|
-| ☑️ REACT.JS   |[GitHub REACT](https://github.com/SimReact)|
+| ☑️ JAVASCRIPT |[GitHub.com/JAVASCRIPT](http://github.com)|
+| ☑️ NODE.JS    |[GitHub.com/NODE](https://github.com/SimNode)|
+| ☑️ EXPRESS.JS |[GitHub.com/EXPRESS](https://github.com/SimExpress)|
+| ☑️ REACT.JS   |[GitHub.com/REACT](https://github.com/SimReact)|
 
 ---
 
