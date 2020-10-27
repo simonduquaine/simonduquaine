@@ -1,7 +1,18 @@
-## Hello everyone and welcome to my github 👋  
-In June, I had the opportunity to start the BeCode adventure and here I am 😃  
+## 👋 Hello everyone and welcome to my github 👋  
+In June, I had the opportunity to start the BeCode adventure and here I am 💯  
 I'd describe myself as a serene, positive and applied person.  
 Also, I am not afraid of the challenge. 💪
+
+--- 
+
+|**TECH SKILLS**|RELATED REPOSITORIES|
+|---------------|--------------------|
+| ☑️ JAVASCRIPT |[GitHub](http://github.com)|
+| ☑️ NODE.JS    | 
+| ☑️ EXPRESS.JS |
+| ☑️ REACT.JS   |[GitHub React](http://github.com)|
+
+---
 <!--
 **simonduquaine/simonduquaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
