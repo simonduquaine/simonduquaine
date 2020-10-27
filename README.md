@@ -7,6 +7,16 @@ Also, I am not afraid of the challenge. 💪
 
 ---
 
+|:star: BeCode Progress :star:|
+|-|
+- [X] The Field
+- [X] The Hill
+- [X] The Mountain
+- [ ] Summer Pastures
+- [ ] Internship
+
+---
+
 |**TECH SKILLS**|RELATED PERSONNAL REPOSITORIES|
 |---------------|--------------------|
 | ☑️ HTML/CSS   |[GitHub.com/BASICS](http://github.com)|
