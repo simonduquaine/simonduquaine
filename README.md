@@ -7,12 +7,13 @@ Also, I am not afraid of the challenge. 💪
 
 |**TECH SKILLS**|RELATED REPOSITORIES|
 |---------------|--------------------|
-| ☑️ JAVASCRIPT |[GitHub](http://github.com)|
-| ☑️ NODE.JS    | 
-| ☑️ EXPRESS.JS |
-| ☑️ REACT.JS   |[GitHub React](http://github.com)|
+| ☑️ JAVASCRIPT |[GitHub JAVASCRIPT](http://github.com)|
+| ☑️ NODE.JS    |[GitHub NODE](https://github.com/SimNode)|
+| ☑️ EXPRESS.JS |[GitHub EXPRESS](https://github.com/SimExpress)|
+| ☑️ REACT.JS   |[GitHub REACT](https://github.com/SimReact)|
 
 ---
+
 <!--
 **simonduquaine/simonduquaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
