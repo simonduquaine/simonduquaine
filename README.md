@@ -1,5 +1,5 @@
 ## 👋 Hello everyone and welcome to my github 👋  
-June, I had the opportunity to start the BeCode adventure and here I am 💯  
+In June, I had the opportunity to start the BeCode adventure and here I am 💯  
 I'd describe myself as a serene, positive and applied person.  
 Also, I am not afraid of the challenge. 💪
 
