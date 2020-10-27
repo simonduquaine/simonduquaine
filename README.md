@@ -1,5 +1,5 @@
 ### Hello everyone and welcome to my github 👋
-
+In June, I had the opportunity to start the BeCode adventure and here I am 😃
 <!--
 **simonduquaine/simonduquaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
