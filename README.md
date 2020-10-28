@@ -20,7 +20,7 @@ Also, I am not afraid of the challenge. 💪
 |**TECH SKILLS**|RELATED PERSONNAL REPOSITORIES|
 |---------------|--------------------|
 | ☑️ HTML/CSS   |[GitHub.com/BASICS](http://github.com/SimBasics)|
-| ☑️ BOOTSTRAP  |[GitHub.com/BOOTSTRAP](http://github.com)|
+| ☑️ BOOTSTRAP  |[GitHub.com/BOOTSTRAP](http://github.com/SimBootstrap)|
 | ☑️ JAVASCRIPT |[GitHub.com/JAVASCRIPT](http://github.com)|
 | ☑️ NODE.JS    |[GitHub.com/NODE](https://github.com/SimNode)|
 | ☑️ EXPRESS.JS |[GitHub.com/EXPRESS](https://github.com/SimExpress)|
