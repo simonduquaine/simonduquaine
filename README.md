@@ -28,7 +28,8 @@ Also, I am not afraid of the challenge. 💪
 
 ---
 
-:email: Want to get in touch with me ? :email:
+:email: Want to get in touch with me ? :email:  
+**→** [LinkedIn](https://www.linkedin.com/in/simon-duquaine/)
 
 <!--
 **simonduquaine/simonduquaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
